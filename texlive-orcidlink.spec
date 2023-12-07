@@ -1,6 +1,6 @@
 Name:		texlive-orcidlink
-Version:	59560
-Release:	2
+Version:	67454
+Release:	1
 Summary:	Insert hyperlinked ORCiD logo
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/orcidlink
