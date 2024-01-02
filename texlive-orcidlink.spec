@@ -1,5 +1,5 @@
 Name:		texlive-orcidlink
-Version:	67454
+Version:	69253
 Release:	1
 Summary:	Insert hyperlinked ORCiD logo
 Group:		Publishing
