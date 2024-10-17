@@ -3,7 +3,7 @@ Version:	71633
 Release:	1
 Summary:	Insert hyperlinked ORCiD logo
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/orcidlink
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/orcidlink
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/orcidlink.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/orcidlink.doc.r%{version}.tar.xz
